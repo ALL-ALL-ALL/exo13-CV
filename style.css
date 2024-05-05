@@ -1,0 +1,87 @@
+
+.page{
+    margin: auto;
+    width: 1423px;
+    background-color: rgb(231, 231, 225) ;
+    border: 2px solid;
+    
+}
+.contactadroite{
+    background-color: rgb(56, 117, 164);
+   /* margin-left: 150px ; */
+    color: aliceblue;
+}
+
+.intro{
+    
+    float: center;
+    background-color: rgb(56, 117, 164);
+    height: 110px;
+    color: aliceblue;
+
+}
+
+.baniere{
+    text-align: center;
+    background-color: beige;
+}
+
+.comptence{
+    background-color: rgb(238, 235, 232);
+
+      color: rgb(56, 117, 164);
+    
+}
+
+.hobbies{
+    background-color: rgb(56, 117, 164);
+    color: rgba(202, 230, 255, 0.999)
+}
+
+.sectionformation{
+right: 1px;
+font-style: italic;
+}
+
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: 3px solid;
+    color: black;
+    
+}
+
+.photo{
+    float: right;
+}
+
+.sectiongauche{
+    text-align: justify;
+    margin-bottom: 5px;
+    font-style: italic;
+}
+
+.annee{
+    font-weight: normal;
+    font-size: 15px;
+
+
+
+}
+
+.sectionmilieu{
+    margin-left: 90px;
+    margin-top: -35px;
+}
+
+h3{
+    color: rgba(26, 153, 221, 0.712);
+    font-size : 11px;
+}
+.titre{
+    font-weight: bold;
+}
+
+
+
+
+
