@@ -86,6 +86,7 @@ h3{
 }
 
 
-
-
-
+.fa-tiktok  {
+    font-size: 90px; /* Taille de l'icône */
+    color: #e51313; /* Couleur de l'icône */
+}
